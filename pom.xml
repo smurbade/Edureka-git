@@ -51,8 +51,8 @@
         </configuration>
       </plugin>
 <plugin>
-	<groupID>org.apache.maven.plugins</groupID>
-	<artifactID>maven-pmd-plugin</artifactID>
+	<groupId>org.apache.maven.plugins</groupId>
+	<artifactId>maven-pmd-plugin</artifactId>
 	<version>3.2</version>
 	<configuration>
 		<targetJdk>1.6</targetJdk>
