@@ -12,8 +12,8 @@
 	        <scope>provided</scope>
 		</dependency>
 <dependency>
-	<groupID>junit</groupID>
-	<artifactID>junit</artifactID>
+	<groupId>junit</groupId>
+	<artifactId>junit</artifactId>
 	<version>4.12</version>
 	<scope>test</scope>
 </dependency>
