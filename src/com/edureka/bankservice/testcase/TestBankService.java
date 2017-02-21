@@ -13,10 +13,8 @@ import javax.servlet.http.HttpSession;
 
 import junit.framework.TestCase;
 
-import junit.Before;
-import junit.Test;
-//import org.junit.Before;
-//import org.junit.Test;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
