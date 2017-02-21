@@ -14,7 +14,8 @@
 <dependency>
   <groupId>junit</groupId>     <!-- NOT org.junit here -->
     <artifactId>junit-dep</artifactId>
-      <version>4.8.2</version>
+      <version>4.12</version>
+	<scope>test</scope>
       </dependency>
 <dependency>
            <groupId>org.mockito</groupId>
